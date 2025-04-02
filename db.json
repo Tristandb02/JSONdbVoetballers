@@ -2,10 +2,10 @@
     "players": [
         {
             "id": 1,
-            "name": "Lionel Messi",
-            "position": "Aanvaller",
+            "naam": "Lionel Messi",
+            "positie": "Aanvaller",
             "club": "Inter Miami",
-            "achievements": [
+            "prestaties": [
                 "8x Ballon d'Or",
                 "4x Champions League",
                 "1x WK-winnaar"
@@ -13,10 +13,10 @@
         },
         {
             "id": 2,
-            "name": "Cristiano Ronaldo",
-            "position": "Aanvaller",
+            "naam": "Cristiano Ronaldo",
+            "positie": "Aanvaller",
             "club": "Al-Nassr",
-            "achievements": [
+            "prestaties": [
                 "5x Ballon d'Or",
                 "5x Champions League",
                 "1x EK-winnaar"
@@ -24,80 +24,80 @@
         },
         {
             "id": 3,
-            "name": "Kevin De Bruyne",
-            "position": "Middenvelder",
+            "naam": "Kevin De Bruyne",
+            "positie": "Middenvelder",
             "club": "Manchester City",
-            "achievements": [
+            "prestaties": [
                 "5x Premier League",
                 "1x Champions League"
             ]
         },
         {
             "id": 4,
-            "name": "Kylian Mbappé",
-            "position": "Aanvaller",
+            "naam": "Kylian Mbappé",
+            "positie": "Aanvaller",
             "club": "Paris Saint-Germain",
-            "achievements": [
+            "prestaties": [
                 "1x WK-winnaar",
                 "5x Ligue 1-kampioen"
             ]
         },
         {
             "id": 5,
-            "name": "Virgil van Dijk",
-            "position": "Verdediger",
+            "naam": "Virgil van Dijk",
+            "positie": "Verdediger",
             "club": "Liverpool",
-            "achievements": [
+            "prestaties": [
                 "1x Champions League",
                 "1x Premier League"
             ]
         },
         {
             "id": 6,
-            "name": "Erling Haaland",
-            "position": "Aanvaller",
+            "naam": "Erling Haaland",
+            "positie": "Aanvaller",
             "club": "Manchester City",
-            "achievements": [
+            "prestaties": [
                 "1x Champions League",
                 "1x Premier League"
             ]
         },
         {
             "id": 7,
-            "name": "Luka Modric",
-            "position": "Middenvelder",
+            "naam": "Luka Modric",
+            "positie": "Middenvelder",
             "club": "Real Madrid",
-            "achievements": [
+            "prestaties": [
                 "1x Ballon d'Or",
                 "5x Champions League"
             ]
         },
         {
             "id": 8,
-            "name": "Robert Lewandowski",
-            "position": "Aanvaller",
+            "naam": "Robert Lewandowski",
+            "positie": "Aanvaller",
             "club": "FC Barcelona",
-            "achievements": [
+            "prestaties": [
                 "1x Gouden Schoen",
                 "1x Champions League"
             ]
         },
         {
             "id": 9,
-            "name": "Neymar Jr",
-            "position": "Aanvaller",
+            "naam": "Neymar Jr",
+            "positie": "Aanvaller",
             "club": "Al-Hilal",
-            "achievements": [
+            "prestaties": [
                 "1x Champions League",
                 "2x La Liga"
             ]
         },
         {
             "id": 10,
-            "name": "Mohamed Salah",
-            "position": "Aanvaller",
+            "naam": "Mohamed Salah",
+            "positie": "Aanvaller",
             "club": "Liverpool",
-            "achievements": [
+            "prestaties": [
                 "1x Champions League",
                 "3x Premier League-topscorer"
             ]
@@ -106,45 +106,45 @@
     "clubs": [
         {
             "id": 1,
-            "name": "Inter Miami",
-            "country": "Verenigde Staten",
-            "titles": 0
+            "naam": "Inter Miami",
+            "land": "Verenigde Staten",
+            "titels": 0
         },
         {
             "id": 2,
-            "name": "Al-Nassr",
-            "country": "Saoedi-Arabië",
-            "titles": 9
+            "naam": "Al-Nassr",
+            "land": "Saoedi-Arabië",
+            "titels": 9
         },
         {
             "id": 3,
-            "name": "Manchester City",
-            "country": "Engeland",
-            "titles": 9
+            "naam": "Manchester City",
+            "land": "Engeland",
+            "titels": 9
         },
         {
             "id": 4,
-            "name": "Paris Saint-Germain",
-            "country": "Frankrijk",
-            "titles": 11
+            "naam": "Paris Saint-Germain",
+            "land": "Frankrijk",
+            "titels": 11
         },
         {
             "id": 5,
-            "name": "Liverpool",
-            "country": "Engeland",
-            "titles": 19
+            "naam": "Liverpool",
+            "land": "Engeland",
+            "titels": 19
         },
         {
             "id": 6,
-            "name": "Real Madrid",
-            "country": "Spanje",
-            "titles": 35
+            "naam": "Real Madrid",
+            "land": "Spanje",
+            "titels": 35
         },
         {
             "id": 7,
-            "name": "FC Barcelona",
-            "country": "Spanje",
-            "titles": 27
+            "naam": "FC Barcelona",
+            "land": "Spanje",
+            "titels": 27
         }
     ]
 }
