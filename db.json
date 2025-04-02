@@ -145,6 +145,12 @@
             "naam": "FC Barcelona",
             "land": "Spanje",
             "titels": 27
+        },
+        {
+            "id": 8,
+            "naam": "Al-Hilal",
+            "land": "Saoedi-Arabië",
+            "titels": 19
         }
     ]
 }
