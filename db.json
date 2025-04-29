@@ -4,7 +4,7 @@
             "id": 1,
             "naam": "Lionel Messi",
             "positie": "Aanvaller",
-            "club": "Inter Miami",
+            "club_id": "1",
             "prestaties": [
                 "8x Ballon d'Or",
                 "4x Champions League",
@@ -15,7 +15,7 @@
             "id": 2,
             "naam": "Cristiano Ronaldo",
             "positie": "Aanvaller",
-            "club": "Al-Nassr",
+            "club_id": "2",
             "prestaties": [
                 "5x Ballon d'Or",
                 "5x Champions League",
@@ -26,7 +26,7 @@
             "id": 3,
             "naam": "Kevin De Bruyne",
             "positie": "Middenvelder",
-            "club": "Manchester City",
+            "club_id": "3",
             "prestaties": [
                 "5x Premier League",
                 "1x Champions League"
@@ -36,7 +36,7 @@
             "id": 4,
             "naam": "Kylian Mbappé",
             "positie": "Aanvaller",
-            "club": "Paris Saint-Germain",
+            "club_id": "4",
             "prestaties": [
                 "1x WK-winnaar",
                 "5x Ligue 1-kampioen"
@@ -46,7 +46,7 @@
             "id": 5,
             "naam": "Virgil van Dijk",
             "positie": "Verdediger",
-            "club": "Liverpool",
+            "club_id": "5",
             "prestaties": [
                 "1x Champions League",
                 "1x Premier League"
@@ -56,7 +56,7 @@
             "id": 6,
             "naam": "Erling Haaland",
             "positie": "Aanvaller",
-            "club": "Manchester City",
+            "club_id": "3",
             "prestaties": [
                 "1x Champions League",
                 "1x Premier League"
@@ -66,7 +66,7 @@
             "id": 7,
             "naam": "Luka Modric",
             "positie": "Middenvelder",
-            "club": "Real Madrid",
+            "club_id": "6,
             "prestaties": [
                 "1x Ballon d'Or",
                 "5x Champions League"
@@ -76,7 +76,7 @@
             "id": 8,
             "naam": "Robert Lewandowski",
             "positie": "Aanvaller",
-            "club": "FC Barcelona",
+            "club_id": "7",
             "prestaties": [
                 "1x Gouden Schoen",
                 "1x Champions League"
@@ -86,7 +86,7 @@
             "id": 9,
             "naam": "Neymar Jr",
             "positie": "Aanvaller",
-            "club": "Al-Hilal",
+            "club_id": "8",
             "prestaties": [
                 "1x Champions League",
                 "2x La Liga"
@@ -96,7 +96,7 @@
             "id": 10,
             "naam": "Mohamed Salah",
             "positie": "Aanvaller",
-            "club": "Liverpool",
+            "club_id": "5",
             "prestaties": [
                 "1x Champions League",
                 "3x Premier League-topscorer"
